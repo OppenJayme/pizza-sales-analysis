@@ -14,7 +14,7 @@ This project is a beginner-friendly data analysis walkthrough using **SQL** and 
 - MySQL (or any SQL-compatible tool)
 - Microsoft Excel
 - Screen Recording: OBS (for video tutorial)
-- Dataset Source: [Link or upload if allowed]
+- Dataset Source: https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih
 
 ## 📊 Key Skills Demonstrated
 
