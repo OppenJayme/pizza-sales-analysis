@@ -13,7 +13,6 @@ This project is a beginner-friendly data analysis walkthrough using **SQL** and 
 
 - MySQL (or any SQL-compatible tool)
 - Microsoft Excel
-- Screen Recording: OBS (for video tutorial)
 - Dataset Source: https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih
 
 ## 📊 Key Skills Demonstrated
@@ -26,13 +25,19 @@ This project is a beginner-friendly data analysis walkthrough using **SQL** and 
 ## 📺 YouTube Walkthrough
 
 Watch the full tutorial with explanations here:  
-👉 [YouTube Video Link]()
+👉 https://www.youtube.com/watch?v=3Acmk-rqn6c&list=PLO9LeSU_vHCWpfLDRTT5nBz9Z0libOs5k
 
-## 📂 Files
-
-- `queries.sql` – All SQL queries used in the project  
-- `sales_dashboard.xlsx` – Final Excel dashboard  
-- `README.md` – This documentation
+## Contents
+- Creation of DB
+- Writing Queries
+- Creating Reports
+- Using Excel
+- Connect DB to Excel
+- Data Cleaning
+- Data Processing
+- Data analysis
+- Data visualization
+- Report Dashboard
 
 ## 💡 Summary
 
