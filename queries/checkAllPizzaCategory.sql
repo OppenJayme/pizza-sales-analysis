@@ -6,7 +6,7 @@ SELECT DISTINCT pizza_category
 from dbo.pizza_sales
 -- Query to check all pizza categories
 
-SELECT pizza_category, SUM(total_price) * 100 / (SELECT SUM(total_price) from pizza_sales)
+SELECT pizza_category, SUM(total_price) * 100 / (SELECT SUM(total_price) from pizza_sales) AS total_contribution_percentage_wholeYear
 FROM dbo.pizza_sales
 GROUP BY pizza_category;
 -- Query to find percentage of total sales of which category / how much each category contributes to total revenue.
@@ -14,13 +14,11 @@ GROUP BY pizza_category;
 WITH total_sales AS (
 	SELECT pizza_category, SUM(total_price) AS category_total
 	FROM dbo.pizza_sales
-	WHERE MONTH(order_date) = 2
 	GROUP BY pizza_category
 ),
 overall_total_sales AS (
 	SELECT SUM(total_price) AS overall
 	FROM dbo.pizza_sales
-	WHERE MONTH(order_date) = 2
 )
 
 SELECT DISTINCT ts.pizza_category, ts.category_total,
