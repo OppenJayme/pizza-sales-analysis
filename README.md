@@ -14,16 +14,16 @@ To gain insights in querying in sql and visualizaion in excel.
 
 ## 📁 Tools Used
 
-- MySQL (or any SQL-compatible tool)
+- MySQL 
 - Microsoft Excel
 - Dataset Source: https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih
 
 ## 📊 Key Skills Demonstrated
 
 - SQL joins, filtering, aggregation
-- Data cleaning and transformation
 - Excel pivot tables and charting
 - Dashboard creation and data storytelling
+- Practice use of WITH syntax
 
 ## 📺 YouTube Walkthrough
 
