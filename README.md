@@ -3,7 +3,7 @@
 This project is a beginner-friendly data analysis walkthrough using **SQL** and **Excel** to analyze a sample sales dataset. It follows the core concepts from the "Data With Tony" YouTube series but includes my own narrative and formatting. 
 
 ## My Goal
-To gain insights in querying in sql and visualizaion in excel.
+To gain insights and further my knowledge in querying in SQL and visualizaion in excel.
 
 ## 🔍 Project Overview
 
