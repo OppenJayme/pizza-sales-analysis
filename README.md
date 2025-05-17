@@ -1,6 +1,9 @@
 # SQL + Excel Sales Dashboard Project
 
-This project is a beginner-friendly data analysis walkthrough using **SQL** and **Excel** to analyze a sample sales dataset. It follows the core concepts from the "Data With Tony" YouTube series but includes my own narrative and formatting.
+This project is a beginner-friendly data analysis walkthrough using **SQL** and **Excel** to analyze a sample sales dataset. It follows the core concepts from the "Data With Tony" YouTube series but includes my own narrative and formatting. 
+
+## My Goal
+To gain insights and further my knowledge in querying in SQL and visualizaion in excel.
 
 ## 🔍 Project Overview
 
@@ -11,16 +14,16 @@ This project is a beginner-friendly data analysis walkthrough using **SQL** and 
 
 ## 📁 Tools Used
 
-- MySQL (or any SQL-compatible tool)
+- MySQL 
 - Microsoft Excel
 - Dataset Source: https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih
 
 ## 📊 Key Skills Demonstrated
 
 - SQL joins, filtering, aggregation
-- Data cleaning and transformation
 - Excel pivot tables and charting
 - Dashboard creation and data storytelling
+- Practice use of WITH syntax
 
 ## 📺 YouTube Walkthrough
 
