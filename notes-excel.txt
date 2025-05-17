@@ -1,0 +1,16 @@
+## Data Cleaning
+Change of pizza-size
+- s = Regular
+- m = Medium
+- L = Large
+- xl - extra-large
+- xxl - xxlarge
+
+## Data Processing
+Add an Order_day from order_Date
+=TEXT(<clickondate>,"dddd"
+
+## Data Analysis
+KPI
+- add new column total_orders
+- COUNTIF (range, criteria). Counts How many duplicates happen in a row.
