@@ -47,3 +47,6 @@ Watch the full tutorial with explanations here:
 This project was built as part of my data analyst learning journey. While inspired by online tutorials, all steps were performed independently with my own explanations and workflow.
 
 Feel free to fork or suggest improvements!
+
+## Photo
+![Dashboard Photo](https://github.com/OppenJayme/pizza-sales-analysis/blob/main/pizza-dashboard/Pizza-Dashboard-Look.png?raw=true)
